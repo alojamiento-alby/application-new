@@ -1,0 +1,182 @@
+[
+  {
+    "services": {
+      "kitchen": { "icon": "kitchen", "tooltip": "Kitchen Inside" },
+      "laundry": {
+        "icon": "local_laundry_service",
+        "tooltip": "Laundry Inside"
+      },
+      "pool": { "icon": "pool", "tooltip": "Access to pool" },
+      "smoking": { "icon": "smoke_free", "tooltip": "Smoke Free Area" },
+      "wifi": { "icon": "wifi", "tooltip": "Free Wifi" }
+    },
+    "description": {
+      "detail": "Exquisite accommodation decorated with the best taste in a simple and elegant way in which our customers can enjoy the coastal area par excellence of the island. Only 10 minutes from the beach by walking and with access to a large pool, moments of absolute relaxation will arise spontaneously. Area with an unparalleled transport service and nearby places to taste the best quality food.",
+      "preview": "Exquisite accommodation decorated with the best taste in a simple and elegant way in which our cu..."
+    },
+    "id": 1,
+    "image": {
+      "detail": "/img/apartmentyes.jpeg?&format=webp",
+      "preview": "/img/apartmentyes.jpeg?&format=webp",
+      "gallery": [
+        {
+          "id": 1,
+          "galleryImage": "/gallery-pictures/Oceano/oce-1.jpeg"
+        },
+        {
+          "id": 2,
+          "galleryImage": "/gallery-pictures/Oceano/oce-2.jpeg"
+        },
+        {
+          "id": 3,
+          "galleryImage": "/gallery-pictures/Oceano/oce-3.jpeg"
+        },
+        {
+          "id": 4,
+          "galleryImage": "/gallery-pictures/Oceano/oce-4.jpeg"
+        },
+        {
+          "id": 5,
+          "galleryImage": "/gallery-pictures/Oceano/oce-5.jpeg"
+        },
+        {
+          "id": 6,
+          "galleryImage": "/gallery-pictures/Oceano/oce-6.jpeg"
+        },
+        {
+          "id": 7,
+          "galleryImage": "/gallery-pictures/Oceano/oce-7.jpeg"
+        },
+        {
+          "id": 8,
+          "galleryImage": "/gallery-pictures/Oceano/oce-8.jpeg"
+        },
+        {
+          "id": 9,
+          "galleryImage": "/gallery-pictures/Oceano/oce-9.jpeg"
+        },
+        {
+          "id": 10,
+          "galleryImage": "/gallery-pictures/Oceano/oce-10.jpeg"
+        },
+        {
+          "id": 11,
+          "galleryImage": "/gallery-pictures/Oceano/oce-11.jpeg"
+        },
+        {
+          "id": 12,
+          "galleryImage": "/gallery-pictures/Oceano/oce-12.jpeg"
+        },
+        {
+          "id": 13,
+          "galleryImage": "/gallery-pictures/Oceano/oce-13.jpeg"
+        },
+        {
+          "id": 14,
+          "galleryImage": "/gallery-pictures/Oceano/oce-14.jpeg"
+        },
+        {
+          "id": 15,
+          "galleryImage": "/gallery-pictures/Oceano/oce-15.jpeg"
+        },
+        {
+          "id": 16,
+          "galleryImage": "/gallery-pictures/Oceano/oce-16.jpeg"
+        },
+        {
+          "id": 17,
+          "galleryImage": "/gallery-pictures/Oceano/oce-17.jpeg"
+        },
+        {
+          "id": 18,
+          "galleryImage": "/gallery-pictures/Oceano/oce-18.jpeg"
+        },
+        {
+          "id": 19,
+          "galleryImage": "/gallery-pictures/Oceano/oce-19.jpeg"
+        },
+        {
+          "id": 20,
+          "galleryImage": "/gallery-pictures/Oceano/oce-20.jpeg"
+        },
+        {
+          "id": 21,
+          "galleryImage": "/gallery-pictures/Oceano/oce-21.jpeg"
+        },
+        {
+          "id": 22,
+          "galleryImage": "/gallery-pictures/Oceano/oce-22.jpeg"
+        },
+        {
+          "id": 23,
+          "galleryImage": "/gallery-pictures/Oceano/oce-23.jpeg"
+        },
+        {
+          "id": 24,
+          "galleryImage": "/gallery-pictures/Oceano/oce-24.jpeg"
+        },
+        {
+          "id": 25,
+          "galleryImage": "/gallery-pictures/Oceano/oce-25.jpeg"
+        },
+        {
+          "id": 26,
+          "galleryImage": "/gallery-pictures/Oceano/oce-26.jpeg"
+        },
+        {
+          "id": 27,
+          "galleryImage": "/gallery-pictures/Oceano/oce-27.jpeg"
+        },
+        {
+          "id": 28,
+          "galleryImage": "/gallery-pictures/Oceano/oce-28.jpeg"
+        },
+        {
+          "id": 29,
+          "galleryImage": "/gallery-pictures/Oceano/oce-29.jpeg"
+        },
+        {
+          "id": 30,
+          "galleryImage": "/gallery-pictures/Oceano/oce-30.jpeg"
+        },
+        {
+          "id": 31,
+          "galleryImage": "/gallery-pictures/Oceano/oce-31.jpeg"
+        },
+        {
+          "id": 32,
+          "galleryImage": "/gallery-pictures/Oceano/oce-32.jpeg"
+        },
+        {
+          "id": 33,
+          "galleryImage": "/gallery-pictures/Oceano/oce-33.jpeg"
+        },
+        {
+          "id": 34,
+          "galleryImage": "/gallery-pictures/Oceano/oce-34.jpeg"
+        },
+        {
+          "id": 35,
+          "galleryImage": "/gallery-pictures/Oceano/oce-35.jpeg"
+        },
+        {
+          "id": 36,
+          "galleryImage": "/gallery-pictures/Oceano/oce-36.jpeg"
+        },
+        {
+          "id": 37,
+          "galleryImage": "/gallery-pictures/Oceano/oce-37.jpeg"
+        },
+        {
+          "id": 38,
+          "galleryImage": "/gallery-pictures/Oceano/oce-38.jpeg"
+        },
+        {
+          "id": 39,
+          "galleryImage": "/gallery-pictures/Oceano/oce-39.jpeg"
+        }
+      ]
+    },
+    "title": "Océano"
+  }
+]
