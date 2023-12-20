@@ -12,7 +12,11 @@ export default defineConfig({
       plugins: [esbuildCommonjs(["react"])],
     },
   },
-  base: "/",
+  // ATTENTION:
+  // With custom domain only a slash is needed
+  // Using GH Pages, the entire repository name is required
+  base: "/application-new/",
+  // base: "/",
   build: {
     commonjsOptions: {
       transformMixedEsModules: true,
