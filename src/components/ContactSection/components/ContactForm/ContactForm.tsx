@@ -9,6 +9,7 @@ import ReCAPTCHA from "react-google-recaptcha";
 
 const ContactForm = (): React.ReactElement => {
   const refCaptcha = useRef<ReCAPTCHA>(null);
+  const recaptchaKey = import.meta.env.VITE_RECAPTCHA_SITEKEY;
 
   const [formValues, setFormValues] = useState({
     name: "",
@@ -24,9 +25,9 @@ const ContactForm = (): React.ReactElement => {
     e.preventDefault();
 
     const token = await refCaptcha.current?.executeAsync();
-    const serviceId = "service_2f4r87a";
-    const templateId = "template_hvslfun";
-    const publicKey = "h_XbKlKQgOj_rTSsK";
+    const serviceId = import.meta.env.VITE_EMAILJS_SERVICE_ID;
+    const templateId = import.meta.env.VITE_EMAILJS_TEMPLATE_ID;
+    const publicKey = import.meta.env.VITE_EMAILJS_USER_PUBLIC_KEY;
 
     const templateParams = {
       contact_name: formValues.name,
@@ -127,7 +128,7 @@ const ContactForm = (): React.ReactElement => {
         {
           <div className="form__control-container form__control-container--btn">
             <ReCAPTCHA
-              sitekey="6LerdDEpAAAAANilpDlGaUU3i5h2CKkjrTTs9o0_"
+              sitekey={recaptchaKey}
               ref={refCaptcha}
               size="invisible"
             />
