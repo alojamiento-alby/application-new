@@ -29,10 +29,10 @@ const apartmentsT: ApartmentStructure[] = [
       galleryIds: [
         {
           id: 1,
-          // imageModulePath is  a relative path created by vite to find the pictures,
+
+          // imageModulePath is a relative path created by vite to find the pictures,
           // it is necessary to rearrange the order of the pictures,
           // it is passed as a value to compare with other through the find method
-
           imageModulePath: "./Oceano/oce-1.jpeg",
           originalImage: "/src/assets/apartments/Oceano/oce-1.jpeg",
         },

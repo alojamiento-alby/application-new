@@ -16,7 +16,8 @@ export default defineConfig({
   // With custom domain only a slash is needed
   // Using GH Pages, the entire repository name is required
   // Ref: https://vitejs.dev/guide/static-deploy#github-pages
-  base: "/application-new/",
+  //base: "/application-new/",
+  base: "/",
   build: {
     commonjsOptions: {
       transformMixedEsModules: true,
